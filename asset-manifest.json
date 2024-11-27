@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/drop_down_list_project.git/static/css/main.5b4c25e4.css",
+    "main.js": "/drop_down_list_project.git/static/js/main.14d1b979.js",
+    "index.html": "/drop_down_list_project.git/index.html",
+    "main.5b4c25e4.css.map": "/drop_down_list_project.git/static/css/main.5b4c25e4.css.map",
+    "main.14d1b979.js.map": "/drop_down_list_project.git/static/js/main.14d1b979.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b4c25e4.css",
+    "static/js/main.14d1b979.js"
+  ]
+}
